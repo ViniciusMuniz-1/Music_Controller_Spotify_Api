@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     #apps
     'api.apps.ApiConfig',
     'frontend.apps.FrontendConfig',
+    'spotify.apps.SpotifyConfig',
     #frameworks
     'rest_framework',
 ]
