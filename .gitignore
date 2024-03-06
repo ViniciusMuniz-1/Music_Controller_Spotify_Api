@@ -3,7 +3,7 @@
 
 ### Chave ###
 # Chave de API do Spotify
-music_controller\spotify\credentials.py
+music_controller/spotify/credentials.py
 
 ### Django ###
 *.log
