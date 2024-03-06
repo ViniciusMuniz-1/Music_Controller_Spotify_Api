@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,django
 
 ### Chave ###
-# Chave de API do Spotify
+# Ignorando Chave de API do Spotify
 music_controller/spotify/spotify_credentials.py
 
 ### Django ###
